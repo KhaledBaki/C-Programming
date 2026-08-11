@@ -4,6 +4,7 @@
 # Ignore bin and obj compiler output folders from Codeblocks
 **/bin/
 **/obj/
+*.cbp
 
 # Object files
 *.o
