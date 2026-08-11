@@ -13,3 +13,9 @@ TO BE ADDED
 ## Useful Resources
 TO BE ADDED
 
+## Next to be Added
+- Scan statements: Receiving user input and storing them into a correct address
+- Data types and symbolic constants + cast operator + Type Def Struct
+- Pointers + Arrays and Pointers
+- 
+
