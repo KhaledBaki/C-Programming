@@ -5,6 +5,8 @@
 **/bin/
 **/obj/
 *.cbp
+*.layout
+*.depend
 
 # Object files
 *.o
